@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Dillinger.md</title><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Pseudorandom_number_generator_0"></a>Pseudorandom number generator</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Pseudorandom number generator for generating question number for each student.</p>
 <p class="has-line-data" data-line-start="4" data-line-end="5">List of dependencies (all are currently part of The Python Standard Library):</p>
